@@ -1,1 +1,2 @@
-﻿return 0;
+﻿Console.WriteLine("Novo");
+return 0;
